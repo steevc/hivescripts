@@ -1,135 +1,271 @@
 R, London & the South East
-U, adetorrent
-U, andy4475
-U, atomcollector
-U, basilmarples
-U, bleepcoin
-U, chris-uk
-U, cryptogee
-U, dannyshine
-U, donatello
-U, fleur
-U, gillianpearce
-U, kgakakillerg
-U, lloyddavis
-U, maneco64
-U, molometer
-U, nakedverse
-U, nathanmars
-U, nickyhavey
-U, nicolcron
-U, redrica
-U, rmsbodybuilding
-U, robbieallenart
-U, sergiomendes
-U, spectrumecons
-U, stav
-U, steevc
-U, stickchumpion
-U, ultravioletmag
-U, winkandwoo
-U, dronegraphica 
-U, ezzy 
-U, kabir88
-U, markangeltrueman
-U, rosa33 
-U, teodora
-U, todayslight
+adamaslam
+adetorrent
+andy4475
+artzo
+atomcollector (@risingstargame)
+awah
+basilmarples
+bewithbreath
+blackrussian
+bleepcoin
+blockchainyouth
+breadcentric
+cezary-io
+charitycurator
+chris-uk
+cryptogee
+d3p0
+dannyshine
+dashfit
+davidthompson57
+digna
+donatello
+dougalporteous
+dronegraphica 
+ezzy 
+fleur
+gillianpearce
+greatvideos
+hockney
+icepee
+imfarhad
+immarojas
+jameshsmitharts
+jedb
+kabir88
+kgakakillerg
+knelstrom
+kph
+liverehab
+lloyddavis (@steemcampuk)
+maneco64
+markangeltrueman
+matildamoment
+mattniblock
+molometer
+nakedverse
+nanzo-scoop
+nathanmars
+nickyhavey
+nicolcron
+notaboutme
+petrahaller
+pushpedal
+rafique
+raymondspeaks
+redrica
+rmsbodybuilding
+robbieallenart
+rosa33 
+sergiomendes
+spectrumecons
+stav
+stealthywolfxli
+steemlondon
+steevc (@tenkminnows @swing47)
+stickchumpion
+stickupboys
+stimp1024
+stormkeepergu (@stormkeepersmdk)
+susanlo
+teodora
+the-busy-bee
+todayslight
+tricki
+ultravioletmag
+wilfredn
+winkandwoo
+xxxxxxxxxxxxxxxx
+zoltarian
 R, The Midlands
-U, abh12345
-U, article61
-U, beautifulbullies
-U, brianbrogan1960
-U, dannewton
-U, dawnsart
-U, dickturpin
-U, ellenripley
-U, fastchrisuk
-U, gribbles
-U, jaytaylor
-U, neilru75
-U, neopch
-U, opheliafu
-U, revisesociology
-U, richgaynor
-U, rimicane
-U, rthelly
-U, shanibeer
-U, shmoogleosukami
-U, starkerz
-U, ura-soul
-U, bettynoir
-U, leighscotford 
-U, martaesperanza
-U, skaarl
+abh12345
+article61
+audreyvr
+beautifulbullies
+bettynoir
+brianbrogan1960
+codelikeamother
+dannewton (@earthsea)
+dawnsart
+decentered-media
+dickturpin
+ebabb
+ellenripley
+fastchrisuk
+fizogphotography
+flashpointstudio
+gribbles
+jaytaylor
+kryptoe
+leighscotford 
+martaesperanza
+neilru75
+neopch
+opheliafu
+paulofnottingham
+purplephoto
+rimicane
+rthelly
+shanibeer
+shmoogleosukami
+skaarl
+stormriderstudio
+ura-soul
+wildonewon
 R, The South West
-U, davidlionfish
-U, jonboka
-U, sharpshot
-U, sunsethunter
-U, wolven-znz
-U, adambarratt 
-U, jimbobbill 
-U, perceptualflaws
+adambarratt 
+davidlionfish
+diveratt
+eveningart
+francesleader
+jimbobbill 
+jonboka
+livinguktaiwan
+mudcat36
+perceptualflaws
+sharpshot
+sunsethunter
+thomaskatan
+ukbitcoinmaster
+wolven-znz
 R, The North
-U, adamfryda-art
-U, ashtv
-U, c0ff33a
-U, whiterosecoffee
-U, darrenclaxton
-U, dizzydiscovery
-U, goblinknackers
-U, lastravage
-U, pcste
-U, slobberchops
-U, someguy123
-U, stevenwood
-U, teamhumble
-U, vraba
-U, artonmysleeve 
-U, cryptocurator 
-U, jskitty 
-U, mckeever
-U, raj808 
+adamfryda-art
+amy-explores
+artonmysleeve 
+ashtv
+bingbabe
+c0ff33a (@whiterosecoffee)
+cryptocurator 
+darrenclaxton
+darrenflinders
+digitaldan
+dismayedworld
+dizzydiscovery
+father2b
+goblinknackers
+jphamer1
+jskitty 
+lastravage
+leetodd
+let123
+makrotheblack
+mckeever
+pcste
+planetauto
+raj808 
+richgaynor
+sisygoboom
+slobberchops
+someguy123
+stevenwood
+teamhumble
+vraba
 R, Scotland
-U, barge
-U, cadawg
-U, camuel
-U, epicdave
-U, jubei333
-U, kevmcc
-U, meesterboom
-U, btcvenom
-U, danaidhbee
+barge
+btcvenom
+cadawg
+camuel
+celticheartbeat (@jubei333)
+cottonlazarus
+danaidhbee
+epicdave
+fiftysixnorth
+highlandwalker
+huitemae
+indusrush
+joshuaslane
+kevmcc
+meesterboom
+myskye
+natubat
+rafalforeigner
+wisbeech
 R, Wales
-U, grindle
-U, louisthomas
-U, stevelivingston
-U, theturtleproject
-U, welshstacker
-U, elizabethharvey
-U, pennsif
-U, p-props
+artystuff
+elizabethharvey
+gazbaz4000
+grindle
+louisthomas
+pennsif
+p-props
+pumpkinsandcats
+stevejhuggett
+stevelivingston
+theturtleproject
+trolleydave
+welshstacker
 R, Northern Ireland
-U, silverstackeruk
+silverstackeruk
 R, Somewhere in the UK...
-U, fadetoblack
-U, mudcat36
-U, raymondspeaks
-U, tommyrobinson
-U, gmuxx 
-U, pjau 
+adhudson
+anarchojeweler
+andrewharland
+bobbylee
+bobskibob
+brianhphotos
+chisdealhd
+cryptosneeze
+cynicalcake
+damianjayclay
+djsl82
+dnpq
+drvimto
+earnxtreme
+english-ant
+eternalsuccess
+fadetoblack
+forbritain
+frugal-fun
+goldstreet
+gmuxx 
+grizzle
+hilarywhitehead
+hopehuggs
+iansart
+imbartley
+karenb54
+lefty619
+luppers
+marketingmonk
+niko3d
+owenwat
+phonetix
+pjau 
+quirk-it
+realjohnaziz
+socialmediaseo
+steddyman
+steemboat-steve
+stevieboyes
+tazbaz
+the-nature-plug
+tkolpaczek
+tobias-g
+tommyrobinson
+tremendospercy
+vibeof100monkeys
+vtravels
 R, Expats
-U, cryptoandcoffee (South Africa)
-U, diveratt (Philippines)
-U, jeffandhisguitar (SE Asia)
-U, livinguktaiwan (Taiwan)
-U, millycf1976 (Philippines)
-U, minismallholding (Australia)
-U, nathen007 (Thailand)
-U, rycharde (@accelerator Thailand)
-U, scubahead (Philippines) 
-U, moonyoga (Portugal) 
-U, lucylin
-U, biggypauls (Philippines)
-U, tggr (Singapore)
+accelerator (@rycharde Thailand)
+biggypauls (Philippines)
+cryptoandcoffee (South Africa)
+eco-alex (Planet Earth)
+eftnow (Spain)
+jeffandhisguitar (SE Asia)
+lucylin
+mattsbeamer (Russia?)
+millycf1976 (Philippines)
+minismallholding (Australia)
+moonyoga (Portugal) 
+nathen007 (Thailand)
+revisesociology (Portugal)
+ripebanana (Trinidad and Tobago)
+samstonehill (France)
+scubahead (Philippines) 
+sebcam (USA)
+shepz1 (Poland)
+starkerz (Cyberspace?)
+tggr (Singapore)
+thinkit (Thailand)
+trucklife-family (The Earth)
