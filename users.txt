@@ -3,7 +3,7 @@ adamaslam
 adetorrent
 andy4475
 artzo
-atomcollector (@risingstargame)
+atomcollector (@risingstargame @juxtamusic)
 awah
 basilmarples
 bewithbreath
@@ -11,6 +11,7 @@ blackrussian
 bleepcoin
 blockchainyouth
 breadcentric
+bugobagi
 cezary-io
 charitycurator
 chris-uk
@@ -22,7 +23,8 @@ davidthompson57
 digna
 donatello
 dougalporteous
-dronegraphica 
+dronegraphica
+edenmichelle
 ezzy 
 fleur
 gillianpearce
@@ -34,11 +36,12 @@ immarojas
 jameshsmitharts
 jedb
 kabir88
-kgakakillerg
+kezyma
+kgakakillerg (@gmlrecordz @kggymlife)
 knelstrom
 kph
 liverehab
-lloyddavis (@steemcampuk)
+lloyddavis (@steemcampuk @lloyd-social)
 maneco64
 markangeltrueman
 matildamoment
@@ -58,7 +61,7 @@ redrica
 rmsbodybuilding
 robbieallenart
 rosa33 
-sergiomendes
+sergiomendes (@thesassysergio)
 spectrumecons
 stav
 stealthywolfxli
@@ -72,6 +75,7 @@ susanlo
 teodora
 the-busy-bee
 todayslight
+todorare
 tricki
 ultravioletmag
 wilfredn
@@ -131,11 +135,13 @@ ukbitcoinmaster
 wolven-znz
 R, The North
 adamfryda-art
+amos1969
 amy-explores
 artonmysleeve 
 ashtv
 bingbabe
 c0ff33a (@whiterosecoffee)
+chisdealhd
 cryptocurator 
 darrenclaxton
 darrenflinders
@@ -151,10 +157,15 @@ leetodd
 let123
 makrotheblack
 mckeever
+michhart
 pcste
 planetauto
+radicalpears
 raj808 
 richgaynor
+saltycat
+sidneybrown
+sir.nowt
 sisygoboom
 slobberchops
 someguy123
@@ -162,32 +173,45 @@ stevenwood
 teamhumble
 vraba
 R, Scotland
+agrestic
+aspiration
+ateacupgamer
 barge
 btcvenom
 cadawg
-camuel
+camuel (@acousticguitar)
 celticheartbeat (@jubei333)
 cottonlazarus
 danaidhbee
 epicdave
 fiftysixnorth
 highlandwalker
+howiemac
 huitemae
 indusrush
 joshuaslane
 kevmcc
-meesterboom
+kiloindigo
+kitzy
+meesterboom (@b00m)
 myskye
 natubat
 rafalforeigner
+screwballpsyche
+stef1 (@art-venture)
+taznbash
+thebigdelay
 wisbeech
+wolfandkitty
 R, Wales
 artystuff
 elizabethharvey
 gazbaz4000
 grindle
+ippai
 louisthomas
-pennsif
+missysheshe86
+pennsif (@steemclub-uk)
 p-props
 pumpkinsandcats
 stevejhuggett
@@ -196,15 +220,17 @@ theturtleproject
 trolleydave
 welshstacker
 R, Northern Ireland
+besold
 silverstackeruk
 R, Somewhere in the UK...
 adhudson
+alheath
 anarchojeweler
 andrewharland
 bobbylee
 bobskibob
+bokarecords
 brianhphotos
-chisdealhd
 cryptosneeze
 cynicalcake
 damianjayclay
@@ -220,25 +246,34 @@ frugal-fun
 goldstreet
 gmuxx 
 grizzle
+happysmileyman
 hilarywhitehead
 hopehuggs
 iansart
 imbartley
+jdbuzz
+jmehta
+joey-cryptoboy
 karenb54
 lefty619
 luppers
 marketingmonk
+mythical
 niko3d
 owenwat
 phonetix
 pjau 
 quirk-it
 realjohnaziz
+scalextrix
+skiesandsports
 socialmediaseo
 steddyman
 steemboat-steve
 stevieboyes
+talesfrmthecrypt
 tazbaz
+tggr.trb
 the-nature-plug
 tkolpaczek
 tobias-g
@@ -258,7 +293,7 @@ mattsbeamer (Russia?)
 millycf1976 (Philippines)
 minismallholding (Australia)
 moonyoga (Portugal) 
-nathen007 (Thailand)
+nathen007 (@leedsunited Thailand)
 revisesociology (Portugal)
 ripebanana (Trinidad and Tobago)
 samstonehill (France)
