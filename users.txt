@@ -20,10 +20,12 @@ breadcentric (Bedfordshire)
 bugobagi
 camerarules
 carwashlondon
+cathgothard (London)
 cezary-io
 charitycurator
 chris-uk (Norwich)
 cryptogee
+cryptosneeze
 d3p0
 daine-cherry
 dannyshine
@@ -46,14 +48,17 @@ endaksi1 (Cambridge)
 ezzy 
 fleur (Cambridge)
 frankiic3
+garrickalder (London)
 gillianpearce (Brighton)
 greatvideos
 grizzle (Bedford)
+grooverman (Brighton)
 hockney
 holisticmom
 icepee
 imfarhad
 immarojas
+independentpress (London)
 jameshsmitharts
 jaxsonmurph
 jedb
@@ -71,6 +76,7 @@ maneco64
 markangeltrueman
 matildamoment
 mattniblock
+ministickupboy (Brighton)
 minteh
 moemanmoesly
 molometer
@@ -87,10 +93,12 @@ profitmachine (Istanbul and London)
 pushpedal
 queenoftheworld
 rafique
+rapptv
 rawveganista
 raymondspeaks
 rea
 redrica
+rightbuildgroup (London)
 rmsbodybuilding
 robbieallenart
 rosa33 
@@ -109,10 +117,12 @@ steevc (Bedfordshire @tenkminnows @swing47)
 stickchumpion
 stickupboys (Brighton)
 stickupmusic (Brighton)
+stickupofficial1 (Brighton)
 stimp1024
 stormkeepergu (@stormkeepersmdk)
 susanlo
 talesfrmthecrypt
+tdctunes (London)
 teodora
 the-busy-bee
 the-gorilla
@@ -125,7 +135,7 @@ touringhousewife
 tricki
 trippymane
 ultravioletmag
-ura-soul (Norfolk)
+ura-soul (Norfolk or elsewhere)
 watt.the.watt
 wilfredn
 winkandwoo
@@ -137,6 +147,7 @@ abh12345
 article61
 audreyvr
 awakingelements
+batchgaming (Nuneaton)
 beautifulbullies
 bettynoir
 brianbrogan1960
@@ -179,6 +190,7 @@ wildonewon
 xwidep
 R, The South West
 adambarratt
+awhofficial (New Forest)
 blade7 (Cornwall)
 cryptokingzno1
 davidlionfish (Bristol)
@@ -334,6 +346,7 @@ arrasails1977
 audrein (England)
 autocoincars
 basejumper
+beachgamestv
 biscuitbarrel (England)
 bloodycritique
 blue.panda
@@ -342,11 +355,12 @@ bobskibob
 bokarecords
 brauner-benz
 brianhphotos
+britcoins (England and SE Asia)
+british-bulldog
 brothershield
 catanddogtips
 clivemartin
 crucialweb
-cryptosneeze
 cryptovios
 cynicalcake
 damianjayclay
@@ -359,6 +373,7 @@ elliotjgardner
 english-ant
 eternalsuccess
 fadetoblack
+fallfromdisgrace
 fatasfunk
 filbell
 forbritain
@@ -401,6 +416,7 @@ phonetix
 pjau 
 platinum-blue
 premiumdomains
+qsett
 quickthen
 quirk-it
 realjohnaziz
