@@ -6,3 +6,4 @@ Following are Jupyter Notebooks:
 * activeuser.ipynb - Generates lists of active users based on those in users.txt.
 * coingecko.ipynb - Queries price data from Coingecko
 * bot.ipynb - Simple bot to look for certain tags and leave a comment/vote. For now looks for typos of proofofbrain
+* FFlist.ipynb - Extracts a list of the people I have mentioned in my Follow Friday posts
