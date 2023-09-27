@@ -1,0 +1,38 @@
+Australia: 133
+Austria: 53
+Bangladesh: 110
+Belgium: 37
+Brasil: 140
+Canada: 146
+China: 34
+Cuba: 142
+Egypt: 1
+El Salvador: 3
+France: 60
+Germany: 270
+Ghana: 48
+Hong Kong: 14
+India: 181
+Indonesia: 244
+Iran: 19
+Israel: 16
+Italy: 98
+Japan: 45
+Malaysia: 85
+Myanmar: 31
+Netherlands: 64
+Nigeria: 462
+Norway: 30
+Paraguay: 18
+Philippines: 391
+Poland: 74
+Russia: 33
+South Africa: 93
+South Korea: 24
+Spain: 84
+Thailand: 40
+Turkey: 31
+Ukraine: 88
+Venezuela: 1684
+Vietnam: 18
+USA: 292
