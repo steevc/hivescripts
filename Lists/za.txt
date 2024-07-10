@@ -1,76 +1,103 @@
-R, Cape Town
-aimeludick
-alainite
-chekohler
+R, Western Cape
+aimeludick (Cape Town)
+alainite (Cape Town)
+bitcoinkings (Cape Town)
+capebike (Cape Town)
+chekohler (Cape Town)
 clairemobey (Table View)
-dlamini
-fermentedphil
-freewheeler
+diziette (Somerset West)
+dkkarolien (Kleinbaai)
+dlamini (Cape Town)
+fermentedphil (Cape Town)
+fionasfavourites (McGregor)
+freewheeler (Cape Town)
 gaminggoddess
-grethaventer
-jasperdick
-juliadick
-jusipassetti
-merenludick
-moderndragon
-morkrock
-p1eter
+grantvortex (Cape Town)
+grethaventer (Cape Town)
+jasperdick (Cape Town)
+juliadick (Cape Town)
+julianhorack (Garden Route)
+jusipassetti (Western Cape)
+lex-zaiya (Table View)
+loadreaper (Table View)
+marelizezeeman
+matthew-williams
+merenludick (Cape Town)
+mimismartypants (Cape Town)
+moderndragon (Cape Town)
+morkrock (Cape Town)
+newharvest (Cape Town)
+nichemarket
+papilloncharity
+p1eter (Cape Town)
+phi-ji-love (Garden Route)
+rexydayz (Western Cape)
+starbuckza (Table View)
 stevemuis (Muizenberg)
 tennt
-therneau (Western Cape)
-xenowolfza
-zakludick
-zo3d
-R, Johannesburg
-africanlottery
-aktivsoul
-beanie786
-deadsparrow
-kamuhive
-kiligirl
-leofinancer
-majorx3thom
-miagora
-msdoobalicious
-nikv
-owenkay
-ultrabiker
-R, Bloemfontein
-misshugo
-technicalside (@curacer)
+thefoxygeeksa (Cape Town)
+therneau
+troynamps (Cape Town)
+xenowolfza (Cape Town)
+zakludick (Cape Town)
+zo3d (Cape Town)
+R, Guateng
+africanlottery (Johanesburg)
+aktivsoul (Johanesburg)
+awgbibb (Roodepoort)
+beanie786 (Johanesburg)
+deadsparrow (Johanesburg)
+johangericke (Pretoria)
+kamuhive (Johanesburg)
+kiligirl (Johanesburg)
+kiara-jones (Sandton)
+leofinancer (Johanesburg)
+majorx3thom (Johanesburg)
+miagora (Johanesburg)
+msdoobalicious (Johanesburg)
+nikv (Johanesburg)
+owenkay (Johanesburg)
+pileofsteem (Snor City)
+snorcity (Pretoria)
+ultrabiker (Johanesburg)
+urban.scout (Pretoria)
+R, Limpopo
+breezin
+R, Mpumalanga
+kerras (Secunda)
 R, South Africa
 afternoondrinks
+aiden.space.bar (Roodepoort, Florida Lake)
 aiden1-1 (Florida Lake)
 ajchampz
-ali2star (n)
+ali2star
 anikekirsten
+anneke
 artywink (Waterfall  KZN)
-awgbibb (Roodepoort)
 aydie1000
 baasdebeer
 bbbistros
 beetroot
 benette
 bestma
+bishhh
 bluegums
 bluntsheep
 braaiboy
-breezin (Limpopo)
 chasmic-cosm
 craigcryptoking
+cryptoandcoffee
 cryptogeek32
 damon9
+datsir
 dianadora
 diebaasman
 digitalpnut
-diziette (Somerset West)
-dkkarolien (Kleinbaai  Western Cape)
 donsie
 driekus
 ebeka.tuwo
 elzakarrr
 emeraldearth
-fionasfavourites (McGregor)
 franciswilliams
 fufukunnn
 gholsa
@@ -78,43 +105,46 @@ gingerninja
 gonetroppo
 gr8.white.snark (KwaZulu-Natal)
 growroomsa
+gwbgjj
 hamilton-jp
 happyhairdays
 hellsveiah (North West)
 hope777 (Leisure Bay)
 ihal0001
 ilanisnapshots
+isaacntobela
+itsmyvault (Pretoria)
 jacoalberts
 jacor
 jakesdewet
+jamespeddie90
 jim-crypto
 jmvanbreda
 joanstewart
-johangericke (Pretoria)
 johannvdwalt
-julianhorack
 karmaluna
 katrah
-kerras (Secunda  Mpumalanga)
-kiara-jones (Sandton)
+kinggoku90
 koosventerza
+kuhnchun
 lanmower
 letdora
-lex-zaiya
+lifeisprecious
+lionmom
+lizelle (Kwazulu Natal)
 lordemmy
 lunaunlimited
-marelizezeeman (Western Cape)
+madmaverik
 meilo1995
-mimismartypants
+michieme
+misshugo (Bloemfontein)
 moonlightmining
 mrsbeetroo
 nanna-d
-nichemarket
 nxghtrxven
 omneonline
-papilloncharity
 penderis
-pileofsteem (Snor City)
+presh84
 pipsandpixels
 pixelhuntersam
 plainoldme
@@ -122,13 +152,17 @@ psychopumpkin
 ptoussa
 reavercois
 reaverza
+riesakashiya
+riki1
 robtheranger
+rynow
 shadowolfdg
+shadowstoem
 shaewebbmusic
 shaunmza
 shmieta
+silhouetted.grey
 skippyza
-snorcity (Pretoria)
 solomonsel
 stefan.steynberg
 stephanus
@@ -137,11 +171,13 @@ stormrobertson
 sue-hellen
 superday
 sweetpea (Durban)
+technicalside (@curacer)
+tereasag
 thearned
 thedarksideshow
 thetravelingsa
+tigermom
 unclefunk (Parys Free State)
-urban.scout (Pretoria)
 virimen
 virimenv
 waarheid
@@ -150,6 +186,7 @@ wildwanderer
 wynella
 yuppycups
 yvette1971
+z3ror0ot
 R, Expats
 splinterlander (Bangkok)
 therealdanshaw (USA)
